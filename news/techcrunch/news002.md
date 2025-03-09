@@ -70,4 +70,4 @@ While battery density and charging infrastructure mean these electron-powered ri
 
 Ford Performance — when y’all entering the Lightning? Hey Jeep, how about entering a Wagoneer S next year? Heck, I’d even be in favor of Uncle Elon entering a Cybertruck. GMC can throw in the Hummer, maybe Porsche could field a Taycan Cross Turismo. I helped Volkswagen get the ID4 to the finish line in Baja in the Mexican 1000 a few years ago, so let’s bring that little guy in too. Imagine the spectacle of all these vehicles battling for electric dirt supremacy.
 
-_Fetched on: 2025-03-09 16:10:29_
+_Fetched on: 2025-03-09 16:14:22_

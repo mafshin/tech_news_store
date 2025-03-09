@@ -70,4 +70,4 @@ The Jelly Star runs Android 13 out of the box and, as such, is a fully fledged s
 
 At $220, the Jelly Star isn’t extraordinarily cheap for a secondary device. But if it means you can disappear for the weekend and leave your pocket rocket at home, while still being able to access essential “life” apps such as WhatsApp, Spotify, Uber, and Google Maps, then it could be a worthwhile investment for some.
 
-_Fetched on: 2025-03-09 16:10:35_
+_Fetched on: 2025-03-09 16:14:29_

@@ -14,4 +14,4 @@ Gurman said that Apple’s smart home hub relies on the new Siri features, so it
 
 Despite the delay, the company has reportedly started an internal testing program allowing employees to take the device home for feedback.
 
-_Fetched on: 2025-03-09 16:10:39_
+_Fetched on: 2025-03-09 16:14:32_

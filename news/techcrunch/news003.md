@@ -22,4 +22,4 @@ A Google spokesperson told Reuters that the DOJ’s “sweeping proposals contin
 
 Mehta is scheduled to hear arguments from both Google and the DOJ in April.
 
-_Fetched on: 2025-03-09 16:10:30_
+_Fetched on: 2025-03-09 16:14:24_

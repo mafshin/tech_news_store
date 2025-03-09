@@ -16,4 +16,4 @@ The company said that the orientation of Athena’s solar panels, combined with 
 
 Intuitive Machines says it was able to get NASA’s Polar Resources Ice Mining Experiment deployed. That experiment contains a drill that can penetrate up to three feet into the moon’s surface. The company didn’t clarify what other experiments it was able to deploy, but it was carrying a rover with Nokia cellular technology and a solid-state “lunar data center,” among others.
 
-_Fetched on: 2025-03-09 16:10:37_
+_Fetched on: 2025-03-09 16:14:31_
